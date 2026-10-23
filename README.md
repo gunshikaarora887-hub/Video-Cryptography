@@ -239,7 +239,5 @@ Contributions are welcome.
 
 # 👨‍💻 Author
 
-**Shambhav Kumar**
+**Gunshika Arora**
 
-- GitHub: https://github.com/Itzshambhav
-- LinkedIn: https://linkedin.com/in/shambhav-kumar-2aaa30212
